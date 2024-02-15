@@ -5,6 +5,6 @@ This is the official PyTorch implementation for the HAM method.
 **Label-Guided Coreset Generation for Computationally Efficient Chest X-ray Diagnosis**<br>
 by **Jayant Mahawar**, Bhargab Chattopadhyay, Angshuman Paul<br>
 
-![WorkFlow image](figures/WorkFlow.png)
+![WorkFlow image](figures/WorkFlow.pdf)
 
 ## Abstract
